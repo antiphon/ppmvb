@@ -1,0 +1,13 @@
+Package: ppmvb
+Type: Package
+Title: Variational Bayes extension to the ppm-function of package spatstat
+Version: 0.1
+Date: 2014-09-16
+Author: Tuomas Rajala
+Maintainer: Tuomas Rajala <tuomas.rajala@iki.fi>
+Description: Extends the ppm-function from package spatstat. Provides Bayesian
+    analysis.
+Imports:
+    spatstat,
+    vblogistic
+License: GPL
