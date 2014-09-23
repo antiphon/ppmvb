@@ -6,7 +6,7 @@ Date: 2014-09-16
 Author: Tuomas Rajala
 Maintainer: Tuomas Rajala <tuomas.rajala@iki.fi>
 Description: Extends the ppm-function from package spatstat. Provides Bayesian
-    analysis.
+    analysis engine.
 Imports:
     spatstat,
     vblogistic
